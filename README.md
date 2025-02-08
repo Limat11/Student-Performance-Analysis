@@ -3,6 +3,7 @@
 ## Overview
 This project presents a **Student Performance Analysis Dashboard**, visualizing key insights into student academic performance based on various influencing factors. The dataset analyzed includes **6,529 students**, and metrics such as **average exam scores, sleep hours, and study hours** are displayed.
 
+![Student Performance Dashboard](https://github.com/Limat11/Student-Performance-Analysis/blob/main/Student%20Performance%20Dashboard.jpg)
 ## Key Metrics
 - **Average Exam Score:** 67
 - **Total Students Analyzed:** 6,529
